@@ -1,0 +1,2 @@
+pyrebase (pyrebase4)
+firebase_admin
